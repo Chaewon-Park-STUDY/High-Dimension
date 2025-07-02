@@ -15,7 +15,7 @@ A model that performs well not only on the training data but also on **test data
 - This measures the model’s ability to **generalize** to new data.
 - Prevents **overfitting** to training data.
 
-## Bias-Variance Trade off
+#### Bias-Variance Trade off
 
 
 
