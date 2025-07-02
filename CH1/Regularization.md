@@ -9,6 +9,12 @@ A model that fits the **training data** well by minimizing the error.
 - This ensures the model **explains the current data accurately**.
 
 ### ✅ 2. Good Predictive Model  
+A model that performs well not only on the training data but also on **test data**.
+
+- Goal: Minimize the **test error**
+- This measures the model’s ability to **generalize** to new data.
+- Prevents **overfitting** to training data.
+
 
 
 
