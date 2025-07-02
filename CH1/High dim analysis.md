@@ -11,14 +11,6 @@
 *Typical Setup in High-Dimension:* 
 `X ∈ ℝⁿˣᵖ`, `y ∈ ℝⁿ`, `p ≫ n`  
 
-
-
-
-
-
-
-
-
 > <p style="color:black"><em>
 > If, informally, we let <i>p</i> denote the dimension of what is ‘unknown’ and let <i>n</i> denote the cardinality of what is ‘known’, then traditional theory, and most practice, has until recently been largely limited to the ‘small <i>p</i>, large <i>n</i>’ scenario.  
 > Over the last 20 years or so, however, the practical environment has changed dramatically, with the spectacular evolution of data acquisition technologies and computing facilities.  
@@ -30,3 +22,5 @@
 
 > <p style="color:black"><em>
 > — <strong>Lindsay et al. (2009)</strong>, <a href="https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2009.0159" target="_blank">Statistical challenges arising from high-dimensional data</a>, *Phil. Trans. R. Soc. A.*
+
+## 📌 Why do we need Hig-Dimensional analysis?
