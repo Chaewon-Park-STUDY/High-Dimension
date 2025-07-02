@@ -26,3 +26,10 @@
 ---
 
 ## 📌 Why do we need High-Dimensional analysis?
+
+- **Data Explosion**: Modern technology collects massive features — sensors, genomics.
+- **Complex Phenomena**: More features can capture nuanced relationships.
+- **Statistical Challenges**: Overfitting, interpretability, computational expense.
+- **Need for Specialized Techniques**: Dimensionality reduction, regularization.
+
+<p align="center"><em> \( d = \frac{p}{n} > 1 \) &nbsp;&nbsp;&nbsp; (high dimension ratio)</em></p>
