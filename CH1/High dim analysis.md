@@ -9,7 +9,9 @@
 - Traditional methods (like OLS) can fail or become unstable.
 
 *Typical Setup in High-Dimension:* 
-`X ∈ ℝⁿˣᵖ`, `y ∈ ℝⁿ`, `p ≫ n`
+`X ∈ ℝⁿˣᵖ`, `y ∈ ℝⁿ`, `p ≫ n`  
+
+
 
 
 
