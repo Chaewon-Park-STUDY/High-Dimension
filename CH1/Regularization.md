@@ -1,7 +1,14 @@
-## 📌 What is a Good model?
+## 📌 What is a Good Model?
+A good statistical model should satisfy the following two major criteria:
 
+### ✅ 1. Good Explanatory Model  
+A model that fits the **training data** well by minimizing the error.
 
+- Goal: Minimize the **training error**
+- MSE<sub>(training)</sub> = (1/n)*(Y − Ŷ)²= (1/n) * Σ (yᵢ - ŷᵢ)²
+- This ensures the model **explains the current data accurately**.
 
+---
 
 
 
