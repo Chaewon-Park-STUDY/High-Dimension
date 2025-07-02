@@ -19,5 +19,7 @@
   
 > However, there is a need for consolidation in the form of a systematic and critical assessment of the new approaches as well as development of appropriate theoretical underpinning.  
 > In terms of asymptotic theory, the key scenarios to be investigated can be described as ‘large <i>p</i>, small <i>n</i>’ or in some cases as ‘large <i>p</i>, large <i>n</i>’; theory for the former scenario would assume that <i>p</i> goes to infinity faster than <i>n</i> and for the latter would assume that <i>p</i> and <i>n</i> go to infinity at the same rate.
-> </em></p>  
+> </em></p>
+
+> <p style="color:black"><em>
 > — <strong>Lindsay et al. (2009)</strong>, <a href="https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2009.0159" target="_blank">Statistical challenges arising from high-dimensional data</a>, *Phil. Trans. R. Soc. A.*
