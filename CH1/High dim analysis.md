@@ -13,7 +13,7 @@
 
 
 <p style="color:black">
-If, informally, we let <i>p</i> denote the dimension of what is ‘unknown’ and let <i>n</i> denote the cardinality of what is ‘known’, then traditional theory, and most practice, has until recently been largely limited to the ‘small <i>p</i>, large <i>n</i>’ scenario.  
+> If, informally, we let <i>p</i> denote the dimension of what is ‘unknown’ and let <i>n</i> denote the cardinality of what is ‘known’, then traditional theory, and most practice, has until recently been largely limited to the ‘small <i>p</i>, large <i>n</i>’ scenario.  
 
 Over the last 20 years or so, however, the practical environment has changed dramatically, with the spectacular evolution of data acquisition technologies and computing facilities.  
 At the same time, applications have emerged in which the number of experimental units is comparatively small but the underlying dimension is massive; illustrative examples might include image analysis, microarray analysis, document classification, astronomy and atmospheric science. Methodology has responded vigorously to these challenges, and procedures have been developed or adapted to provide practical results.  
