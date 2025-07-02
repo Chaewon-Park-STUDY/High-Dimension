@@ -32,4 +32,6 @@
 - **Statistical Challenges**: Overfitting, interpretability, computational expense.
 - **Need for Specialized Techniques**: Dimensionality reduction, regularization.
 
-<p align="center"><em> \( d = \frac{p}{n} > 1 \) &nbsp;&nbsp;&nbsp; (high dimension ratio)</em></p>
+d = p / n > 1 (high dimension ratio)
+
+
