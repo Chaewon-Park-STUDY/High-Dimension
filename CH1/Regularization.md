@@ -8,6 +8,10 @@ A model that fits the **training data** well by minimizing the error.
 - MSE<sub>(training)</sub> = (1/n)*(Y − Ŷ)²= (1/n) * Σ (yᵢ - ŷᵢ)²
 - This ensures the model **explains the current data accurately**.
 
+### ✅ 2. Good Predictive Model  
+
+
+
 ---
 
 
