@@ -16,7 +16,7 @@ A model that performs well not only on the training data but also on **test data
 - Prevents **overfitting** to training data.
 
 #### Bias-Variance Trade off
-
+![Bias-Variance Tradeoff](images/1.png)
 
 
 ---
