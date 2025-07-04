@@ -16,6 +16,7 @@ A model that performs well not only on the training data but also on **test data
 - Prevents **overfitting** to training data.
 
 #### Bias-Variance Trade off
+Let $$\hat{f}(x)$$ be the fitted model.
 ![Bias-Variance Trade off](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/1.png)
 
 
