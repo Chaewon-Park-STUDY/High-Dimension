@@ -20,7 +20,10 @@ Let $$\hat{f}(x)$$ be the fitted model.
 ![Bias-Variance Trade off](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/1.png)
 ![Bias-Variance Trade off](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/2.jpeg)
 
+- In high-dimensional settings (p>>n), models can suffer from **high variance**
+- lead to unstable predictions and poor generalization.
 
+- To mitigate this, **regularization** is used to reduce variance, even if it introduces some bias.
 
 ---
 
