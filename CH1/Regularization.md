@@ -50,7 +50,7 @@ Let $$\hat{f}(x)$$ be the fitted model.
 </li>
 
 <li>
-<b>Improves Generalization:</b> Allows the model to perform well on unseen test data, prevents overfitting especially in complex models that are sensitive to noise and fit only the training data.
+<b>Improves Generalization:</b> Allows the model to perform well on unseen test data & Prevents overfitting especially in complex models that are sensitive to noise and fit only the training data.
 </li>
 
 </ul>
