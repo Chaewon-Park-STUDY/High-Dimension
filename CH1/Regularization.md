@@ -45,7 +45,7 @@ Let $$\hat{f}(x)$$ be the fitted model.
 </li>
 
 <li>
-<b>Penalties:</b> L1 (Lasso), L2 (Ridge), both (Elastic Net)<br>
+<b>Penalties:</b> L1 (Lasso), L2 (Ridge), both (Elastic Net: Linear Combination of Lasso & Ridge)<br>
 <img src="https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/5.png" width="800"/>
 </li>
 
