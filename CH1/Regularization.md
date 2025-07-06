@@ -54,7 +54,7 @@ Let $$\hat{f}(x)$$ be the fitted model.
 </li>
 
 </ul>
-
+<img src="https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/6.jpeg" width="500"/>
 
 ---
 
