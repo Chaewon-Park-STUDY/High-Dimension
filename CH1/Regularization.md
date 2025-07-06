@@ -27,7 +27,7 @@ Let $$\hat{f}(x)$$ be the fitted model.
 - As long as the reduction in variance outweighs the increase in bias, the model’s predictive performance improves.
 
 🎯 Graphical understanding
-
+![Graphical definition](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/3.png)
 
 
 
