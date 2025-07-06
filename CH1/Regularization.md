@@ -36,7 +36,8 @@ Let $$\hat{f}(x)$$ be the fitted model.
 - When predictions are close to the red dot, bias is low. When predictions are tightly clustered together, variance is low.
 
 ![Graphical definition](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/4.png)
-
+<br>
+### ✅ Motivation for Regularization
 
 
 
