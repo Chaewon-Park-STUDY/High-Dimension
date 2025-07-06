@@ -38,10 +38,22 @@ Let $$\hat{f}(x)$$ be the fitted model.
 ![Graphical definition](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/4.png)
 <br>
 ### ✅ Motivation for Regularization
-- Trade-off: Bias-Variance. Adding a small bias reduces variance
-- Penalties: L1(Lasso), L2(Ridge), both(Elastic net)
-- Improves Generalization: Allows the model perform well on unseen test data, prevents overfitting especially in complex models that are sensitive to noise and fit only the training data.
+<ul>
 
+<li>
+<b>Trade-off:</b> Bias-Variance. Adding a small bias reduces variance
+</li>
+
+<li>
+<b>Penalties:</b> L1 (Lasso), L2 (Ridge), both (Elastic Net)<br>
+<img src="https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/5.png" width="400"/>
+</li>
+
+<li>
+<b>Improves Generalization:</b> Allows the model to perform well on unseen test data, prevents overfitting especially in complex models that are sensitive to noise and fit only the training data.
+</li>
+
+</ul>
 
 
 ---
