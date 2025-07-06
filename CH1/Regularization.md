@@ -25,6 +25,15 @@ Let $$\hat{f}(x)$$ be the fitted model.
 
 - To mitigate this, **regularization** is used to reduce variance, even if it introduces some bias.
 - As long as the reduction in variance outweighs the increase in bias, the model’s predictive performance improves.
+
+🎯 Graphical understanding
+
+
+
+
+
+
+
 ---
 
 
