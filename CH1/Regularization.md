@@ -38,7 +38,9 @@ Let $$\hat{f}(x)$$ be the fitted model.
 ![Graphical definition](https://raw.githubusercontent.com/Chaewon-Park-STUDY/High-Dimension/main/images/4.png)
 <br>
 ### ✅ Motivation for Regularization
-
+- Trade-off
+- Penalties:
+- Improves Generalization: 
 
 
 
